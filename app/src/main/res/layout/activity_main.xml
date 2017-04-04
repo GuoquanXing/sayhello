@@ -10,6 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.xingguoquan.sayhello.MainActivity">
 
+<<<<<<< HEAD
     <Button
         android:text="Say hello"
         android:layout_width="wrap_content"
@@ -41,4 +42,10 @@
         android:layout_toEndOf="@+id/textView"
         android:onClick="stopMyService"/>
 
+=======
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!" />
+>>>>>>> 6f6a3f34c407eeff22a4d6ad44ed4c797f48f735
 </RelativeLayout>

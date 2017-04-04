@@ -15,11 +15,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
 
         <service
             android:name=".MyService"
             android:enabled="true"
             android:exported="true"></service>
+=======
+>>>>>>> 6f6a3f34c407eeff22a4d6ad44ed4c797f48f735
     </application>
 
 </manifest>
